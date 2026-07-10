@@ -1,7 +1,7 @@
 # backend.repo は GitHub push 後に実際のリポジトリ名へ書き換えてください
 backend:
   name: github
-  repo: <GitHubユーザー名>/<リポジトリ名>
+  repo: ooishi1221/easis-site-cms
   branch: main
 media_folder: content/uploads
 public_folder: /uploads
